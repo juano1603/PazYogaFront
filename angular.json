@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PazYogaFront"
+    }
+  },
+  "defaultProject": "PazYogaFront",
+  "cli": {
+    "analytics": "dcf829a9-2cd3-4bf0-8c1d-20fa2eec0ffb"
+  }
 }
